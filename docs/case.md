@@ -1,13 +1,9 @@
-# Satellite Image Case
-"Satellite Image Case Study for the Researcher I - Computer Vision Position @ FIESC"
-
-# Description
 | ![](RackMultipart20231029-1-ok4lvn_html_63cef2404cb17e9b.png) | **Prova Prática: Case On-line** |
 | --- | --- |
 | _Formulário padronizado_ | _Sistema FIESC – DICORP Diretoria de Desenvolvimento Industrial e Corporativo_ |
 
 | **Processo Seletivo** |
-## 01991/2023 - Pesquisador I - Visão Computacional
+# 01991/2023 - Pesquisador I - Visão Computacional
  | **Etapa** | **Estudo de caso** |
 | --- | --- | --- | --- |
 | **Entidade** | **SENAI** | **Data** | **27/10/2023** |
