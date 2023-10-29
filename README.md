@@ -1,21 +1,19 @@
 # Satellite Image Case
-"Satellite Image Case Study for the Researcher I - Computer Vision Position @ FIESC"
+**Satellite Image Case Study for the Researcher I - Computer Vision Position @ [FIESC](https://fiesc.com.br/)"**
 
 # Description
-| ![](RackMultipart20231029-1-ok4lvn_html_63cef2404cb17e9b.png) | **Prova Prática: Case On-line** |
+| **[FIESC](https://fiesc.com.br/)** | **Prova Prática: Case On-line** |
 | --- | --- |
 | _Formulário padronizado_ | _Sistema FIESC – DICORP Diretoria de Desenvolvimento Industrial e Corporativo_ |
 
-| **Processo Seletivo** |
-## 01991/2023 - Pesquisador I - Visão Computacional
- | **Etapa** | **Estudo de caso** |
+| **Processo Seletivo** | **01991/2023 - Pesquisador I - Visão Computacional** | **Etapa** | **Estudo de caso** | 
 | --- | --- | --- | --- |
 | **Entidade** | **SENAI** | **Data** | **27/10/2023** |
 
 Dados a serem preenchidos pelo Candidato(a):
 
-| **Nome Completo** | **Arthur Jose Antocevicz Polli** |
-| --- | --- |
+| **Nome Completo** | - |  **Arthur Jose** | **Antocevicz Polli** |
+| --- | --- | --- | --- |
 | **E-mail** | **arthurjose.polli@gmail.com** | **CPF** | **097.280.289-81** |
 
 Olá, candidato (a)!
@@ -44,7 +42,7 @@ Link para os arquivos: https://drive.google.com/drive/folders/1jABR\_iuOv8LHd2TN
   1. As imagens RGB _img46.png_, _img47.png_, _img66.png_ e _img67.png_ apresentam um silo, conforme indicado abaixo. Implemente um código responsável pela seleção dos conjuntos de pixels associados ao objeto silo.
   2. Considerando as imagens satelitais, das mesmas regiões acima, contendo 8 canais espectrais (arquivos _.tiff_), implemente algum método para segmentação da vegetação presente nas cenas.
 
-![](RackMultipart20231029-1-ok4lvn_html_8265e04e7a645042.png)
+![silo](docs/assets_fig1.png)
 
 Objeto de interesse: silo apontado
 
