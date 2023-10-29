@@ -7,6 +7,9 @@
 
 </div>
 
+- [Satellite Image Case](#satellite-image-case)
+- [Description](#description)
+
 **Satellite Image Case Study for the Researcher I - Computer Vision Position @ [FIESC](https://fiesc.com.br/)"**
 
 # Description
