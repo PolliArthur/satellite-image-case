@@ -1,6 +1,6 @@
 <div align = "center";>
   <a align="center" href="https://fiesc.com.br/" target="_blank">
-  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/docs/assets/fiesc2021-logo.png">
+  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/assets/fiesc2021-logo.png">
   </a>
   
 # Satellite Image Case
@@ -55,7 +55,7 @@ Link para os arquivos: https://drive.google.com/drive/folders/1jABR\_iuOv8LHd2TN
 
 <div align = "center";>
   <a align="center" href="https://fiesc.com.br/" target="_blank">
-  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/docs/assets/case_fig1.png">
+  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/assets/case_fig1.png">
   </br>
   <figcaption>Objeto de interesse: silo apontado</figcaption>
   </a>
