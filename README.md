@@ -8,11 +8,11 @@
 </div>
 
 - [Satellite Image Case](#satellite-image-case)
-- [Description](#description)
+- [Descrição](#descrição)
 
-**Satellite Image Case Study for the Researcher I - Computer Vision Position @ [FIESC](https://fiesc.com.br/)"**
 
-# Description
+
+# Descrição
 | **[FIESC](https://fiesc.com.br/)** | **Prova Prática: Case On-line** |
 | --- | --- |
 | _Formulário padronizado_ | _Sistema FIESC – DICORP Diretoria de Desenvolvimento Industrial e Corporativo_ |
