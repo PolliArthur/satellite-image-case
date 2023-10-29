@@ -1,4 +1,12 @@
+<div align = "center";>
+  <a align="center" href="https://fiesc.com.br/" target="_blank">
+  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/docs/assets/fiesc2021-logo.png">
+  </a>
+  
 # Satellite Image Case
+
+</div>
+
 **Satellite Image Case Study for the Researcher I - Computer Vision Position @ [FIESC](https://fiesc.com.br/)"**
 
 # Description
@@ -42,9 +50,15 @@ Link para os arquivos: https://drive.google.com/drive/folders/1jABR\_iuOv8LHd2TN
   1. As imagens RGB _img46.png_, _img47.png_, _img66.png_ e _img67.png_ apresentam um silo, conforme indicado abaixo. Implemente um código responsável pela seleção dos conjuntos de pixels associados ao objeto silo.
   2. Considerando as imagens satelitais, das mesmas regiões acima, contendo 8 canais espectrais (arquivos _.tiff_), implemente algum método para segmentação da vegetação presente nas cenas.
 
-![silo](docs/assets_fig1.png)
-
-Objeto de interesse: silo apontado
+<div align = "center";>
+  <a align="center" href="https://fiesc.com.br/" target="_blank">
+  <img style=”float: left; padding: 0px 0px 0px 0px;” src="/docs/assets/case_fig1.png">
+  </br>
+  <figcaption>Objeto de interesse: silo apontado</figcaption>
+  </a>
+  </br>  
+  </br> 
+</div>
 
 Link para os arquivos: https://drive.google.com/drive/folders/11lIKyqkj-VtqB7I73PePWPfIMovPjJqo?usp=sharing
 
